@@ -3,9 +3,8 @@
 ### Hey there! 👾
 
 **I'm Shivam Aher a student of IT branch NIT KURUKSHETRA,** coding by day and refactoring by moonlight. 😁  
-I build projects that are actually useful... or I work on things that make me think, "I could do this better!" (Most of the time, it’s more like a comedy of errors 🥲)  
-I unsuccessfully juggle between streaks of Leetcode and Github. 
-Let's create something that works... and if it doesn't, well, I've got a ton of experience in making things that don’t work. 😉
+I try to build project that have real world use case or are just fun to make and use . 
+
 
 
 
