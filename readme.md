@@ -3,7 +3,8 @@
 ### Hey there! 👾
 
 **I'm Shivam Aher a student of IT branch NIT KURUKSHETRA,** coding by day and refactoring by moonlight. 😁  
-I try to build project that have real world use case or are just fun to make and use . 
+I try to build projects that have real world use case or are just fun to make and use . 
+
 
 
 
