@@ -6,7 +6,7 @@
 
 
 ## 🛠️ About Me
-- 👨‍💻 I am a second-year IT student at NIT Kurukshetra.
+- 👨‍💻 I am a third-year IT student at NIT Kurukshetra.
 - 🤝 Looking to collaborate on **ML, SaaS, and Web Development** projects.
 - I am currently working on building a SAAS service .
 
